@@ -1,5 +1,5 @@
-url: https://1-7.github.io/
-baseurl: /1-7.github.io/jekyll/
+url: /1-7.github.io/
+baseurl: /jekyll/
 
 # Site settings
 title: Awesome Title
